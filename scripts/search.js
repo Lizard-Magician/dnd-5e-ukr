@@ -1,4 +1,4 @@
-var data = JSON.parse(magic);
+var data = JSON.parse(magic2);
 
 function search() {
     let input = document.getElementById('searchbar').value
