@@ -1,3 +1,7 @@
+
 *.txt
 *.py
 magicksDUMP.json
+wip/
+components/
+pages/rules.html
